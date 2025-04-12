@@ -5,49 +5,13 @@ The project and source code is created by Manus AI (www.manus.im).
 And the ap is deployed by Manus AI, accessible at : [https://shxcpocd.manus.space/](https://sbxwsdyv.manus.space) 
 
 Lagrange polynomial - From Wikipedia
-============
+===============
 
 In numerical analysis, the Lagrange interpolating polynomial is the unique polynomial of lowest degree that interpolates a given set of data.
-Given a data set of coordinate pairs 
-(
-x
-j
-,
-y
-j
-)
-{\displaystyle (x_{j},y_{j})} with 
-0
-≤
-j
-≤
-k
-,
-{\displaystyle 0\leq j\leq k,} the 
-x
-j
-{\displaystyle x_{j}} are called nodes and the 
-y
-j
-{\displaystyle y_{j}} are called values. The Lagrange polynomial 
-L
-(
-x
-)
-{\displaystyle L(x)} has degree 
-≤
-k
-{\textstyle \leq k} and assumes each value at the corresponding node, 
-L
-(
-x
-j
-)
-=
-y
-j
-.
-{\displaystyle L(x_{j})=y_{j}.}
+
+
+Given a data set of coordinate pairs $(x_j, y_j)$ with $0 \leq j \leq k,$ the $x_j$ are called **nodes** and the $y_j$ are called **values**. The Lagrange polynomial $L(x)$ has degree $\le k$ and assumes each value at the corresponding node, $L(x_j) = y_j$.
+
 Although named after Joseph-Louis Lagrange, who published it in 1795, the method was first discovered in 1779 by Edward Waring. It is also an easy consequence of a formula published in 1783 by Leonhard Euler. 
 
 Uses of Lagrange polynomials include the Newton–Cotes method of numerical integration, Shamir's secret sharing scheme in cryptography, and Reed–Solomon error correction in coding theory.
