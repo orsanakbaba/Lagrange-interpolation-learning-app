@@ -2,7 +2,7 @@
 
 The project and source code is created by Manus AI (www.manus.im).
 
-And the ap is deployed by Manus AI, accessible at : [https://shxcpocd.manus.space/](https://sbxwsdyv.manus.space) 
+The running app is deployed by Manus AI to WWW and publicly accessible at : [https://shxcpocd.manus.space/](https://sbxwsdyv.manus.space) 
 
 Lagrange polynomial - From Wikipedia
 ===============
