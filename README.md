@@ -4,7 +4,7 @@ The project and source code is created by Manus AI (www.manus.im).
 
 The running app is deployed by Manus AI to WWW and publicly accessible at : [https://shxcpocd.manus.space/](https://sbxwsdyv.manus.space) 
 
-[Lagrange polynomial From Wikipedia](https://en.wikipedia.org/wiki/Lagrange_polynomial
+[Lagrange polynomial From Wikipedia](https://en.wikipedia.org/wiki/Lagrange_polynomial)
 ===============
 
 In numerical analysis, the Lagrange interpolating polynomial is the unique polynomial of lowest degree that interpolates a given set of data.
